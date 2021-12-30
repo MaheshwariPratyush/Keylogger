@@ -12,7 +12,7 @@ For Windows :
  
  Type "cmd"
  
- Then Type "pip3 install -r requirements.txt"
+ Then Type "pip install -r requirements.txt"
  
  Finally Type "python3 keylogger.py"
  
